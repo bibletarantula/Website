@@ -1,11 +1,5 @@
-   ____           _                  
-  / ___|   _  ___| | ___  _ __   ___ 
- | |  | | | |/ __| |/ _ \| '_ \ / _ \
- | |__| |_| | (__| | (_) | | | |  __/
-  \____\__, |\___|_|\___/|_| |_|\___|
-       |___/            
-       
-Cyclone is a responsive theme built with Bootstrap 4 for Project EPF. This theme utilizes a dark scheme which is easy on the eyes while also being simple and easy to maneuver,
-it was built to be lightweight and simple to build upon.
+![image](https://icpv2.com/img/cyclone.png)
 
-Steady updates will be pushed for Cyclone as time goes on.
+Cyclone is a lightweight and responsive Bootstrap 4 theme/website built for Project EPF.
+
+If you need assistance with Cyclone or a website of your own, feel free to reach out to me on Discord: bt#8008
